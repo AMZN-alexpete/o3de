@@ -91,6 +91,7 @@
         "Gems/WhiteBox"
     ],
     "projects": [
+        "../demo-project",
         "AutomatedTesting"
     ],
     "templates": [
