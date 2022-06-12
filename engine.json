@@ -104,5 +104,6 @@
         "Templates/CppToolGem",
         "Templates/MinimalProject",
         "Templates/PythonToolGem"
-    ]
+    ],
+    "gem_names": []
 }
